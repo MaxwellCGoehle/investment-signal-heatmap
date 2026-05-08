@@ -1,0 +1,8 @@
+newsapi-python
+pandas
+numpy
+matplotlib
+seaborn
+vaderSentiment
+python-dotenv
+requests
