@@ -17,7 +17,7 @@ QUERIES = [
     "venture capital industrial tech",
     "venture capital AI funding",
     "AI logistics automation",
-    "AI logistics supply chain",
+    "AI logistics supply chain"
 ]
 
 def fetch_articles(query, days_back=30):

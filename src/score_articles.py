@@ -13,7 +13,7 @@ SECTOR_MAP = {
     "venture capital industrial tech": "Venture Capital",
     "venture capital AI funding": "Venture Capital",
     "AI logistics automation": "AI Logistics",
-    "AI logistics supply chain": "AI Logistics",
+    "AI logistics supply chain": "AI Logistics"
 }
 
 def score_articles(df):
